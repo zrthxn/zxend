@@ -1,11 +1,11 @@
 {
-  "name": "xend",
+  "name": "zxend",
   "version": "0.1.0",
   "description": "A terminal chat app",
-  "main": "xend.js",
+  "main": "zxend.js",
   "preferGlobal": true,
   "bin": {
-    "xend": "./bin/index.js"
+    "zxend": "./bin/index.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zrthxn/xend.git"
+    "url": "git+https://github.com/zrthxn/zxend.git"
   },
   "keywords": [
     "Chatapp",
@@ -34,7 +34,7 @@
   "author": "zrthxn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zrthxn/xend/issues"
+    "url": "https://github.com/zrthxn/zxend/issues"
   },
-  "homepage": "https://github.com/zrthxn/xend#readme"
+  "homepage": "https://github.com/zrthxn/zxend#readme"
 }

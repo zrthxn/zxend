@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const xend = require('../xend.js')
+const xend = require('../zxend.js/index.js')
 const settings = require('./settings.lock.json')
 
 var args = process.argv.splice(process.execArgv.length + 2)
